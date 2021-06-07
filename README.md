@@ -1,4 +1,4 @@
 # A-Template-For-a-Portfolio
 a simple template for a portfolio site <br/>
-just download the folder and run 'npm start'
+just download the folder and run 'npm start' <br/>
 there you go! :)
